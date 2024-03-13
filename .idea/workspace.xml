@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="719e426f-76e5-4f80-b7f6-afb7646afbb1" name="Changes" comment="animation workds">
+=======
+    <list default="true" id="719e426f-76e5-4f80-b7f6-afb7646afbb1" name="Changes" comment="idk">
+      <change beforePath="$PROJECT_DIR$/.idea/lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab2.iml" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab2_prompt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2_prompt.ipynb" afterDir="false" />
     </list>
@@ -47,6 +52,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -67,6 +73,24 @@
     <option name="ciType" value="GITHUB" />
     <option name="path" value="$PROJECT_DIR$/.github/workflows/qodana_code_quality.yml" />
   </component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/balog/Documents/Github/lab2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+>>>>>>> Stashed changes
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\balog\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="86c2a508-bf40-4f60-a05e-fee5b354cc0a" reportId="lab2/qodana/2024-03-11" />
@@ -134,7 +158,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -146,8 +170,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710109780161</updated>
+<<<<<<< Updated upstream
       <workItem from="1710109786156" duration="5610000" />
       <workItem from="1710288605329" duration="718000" />
+=======
+      <workItem from="1710109786156" duration="3856000" />
+      <workItem from="1710171990642" duration="804000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="idk">
       <option name="closed" value="true" />
